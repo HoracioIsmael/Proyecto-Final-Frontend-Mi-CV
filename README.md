@@ -1,3 +1,3 @@
 # Proyecto-Final-Frontend-Mi-CV
-Proyecto de Argentina Programa.
+Proyecto de Argentina Progra
 
